@@ -1,0 +1,5 @@
+{
+  "title" : "중국어",
+  "error-with-status": "服务器上发生{{statusCode}}错误",
+  "error-without-status": "服务器上发生错误"
+}
