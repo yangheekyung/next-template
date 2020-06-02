@@ -2,7 +2,8 @@ import React from 'react';
 import App from 'next/app';
 import {appWithTranslation} from '../i18n';
 import {wrapper} from '../store';
-import '../public/static/style/reset.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+// import '../public/static/style/reset.css';
 import '../public/static/style/global.css';
 import Layout from '../components/layout';
 
