@@ -1,9 +1,10 @@
 import React from 'react';
+import {Navbar} from "react-bootstrap";
 
 const Footer = () => (
-  <footer>
-    Footer
-  </footer>
-)
+    <Navbar>
+        footer
+    </Navbar>
+);
 
 export default Footer;
